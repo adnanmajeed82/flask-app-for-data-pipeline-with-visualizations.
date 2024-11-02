@@ -6,3 +6,6 @@ flask-app-for-data-pipeline-with-visualizations.
 ![4](https://github.com/user-attachments/assets/2a202051-8a9e-4537-9b41-4521e7a6dc9c)
 ![5](https://github.com/user-attachments/assets/be78c83c-4dc0-4cf6-9c97-e57442563703)
 ![6](https://github.com/user-attachments/assets/6928e21f-efd9-45af-a63c-aa5444d28ddd)
+
+
+pip install flask pandas openpyxl
